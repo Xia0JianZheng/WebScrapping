@@ -1,12 +1,15 @@
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Scrap {
@@ -29,38 +32,31 @@ public class Scrap {
             Scanner scanner = new Scanner(System.in);
             int opt = scanner.nextInt();
 
-            while(true){
                 switch (opt){
                     case 1 :
-                        driver.get("https://genshin-impact.fandom.com/wiki/Character#Playable_Characters");
-                        WebDriverWait driverWait = new WebDriverWait(driver, Duration.ofSeconds(30));
-                        aceptarCoockies(driver, driverWait);
+                        driver.get("https://bbs.mihoyo.com/ys/obc/channel/map/189/25?bbs_presentation_style=no_header");
+                        WebDriverWait driverWait = new WebDriverWait(driver, Duration.ofSeconds(60));
 
-                        driver.close();
-                        continue;
-                    case 2 :
-                        driver.get("https://genshin-impact.fandom.com/wiki/Weapon/List");
-                        driver.close();
-                        continue;
-                    case 3 :
-                        driver.get("https://genshin-impact.fandom.com/wiki/Artifact/Sets");
-                        driver.close();
-                        continue;
-                    case 4 :
-                        driver.get("https://genshin-impact.fandom.com/wiki/Enemy/List");
-                        driver.close();
-                        continue;
-                    case 0 :
-                        return;
-                    default :
-                        System.out.println("No existe este opcion, Intenta de nuevo");
+                        Login(driver, driverWait);
+
+                        List<WebElement> personajes;
+                        List<String> links = new ArrayList<>();
+
+                        personajes = driver.findElements(new By.ByClassName("category-page__member"));
+
+
+                        for (WebElement p: personajes) {
+                            links.add(p.getAttribute("href"));
+                        }
+                        links.forEach(System.out::println);
                 }
-            }
     }
 
-    public static void aceptarCoockies(WebDriver driver, WebDriverWait driverWait){
-        driverWait.until(ExpectedConditions.elementToBeClickable(new By.ByClassName("NN0_TB_DIsNmMHgJWgT7U")));
-        driver.findElement(new By.ByClassName("NN0_TB_DIsNmMHgJWgT7U")).click();
+    public static void Login(WebDriver driver, WebDriverWait driverWait){
+
+        driver.findElement(new By.ByClassName("header-user")).click();
+        driverWait.until(ExpectedConditions.elementToBeClickable(new By.ByClassName("tab-item")));
+        driver.findElement(new By.ByClassName("tab-item")).click();
     }
 
 
