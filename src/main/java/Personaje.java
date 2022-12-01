@@ -5,6 +5,8 @@ public class Personaje {
     String Elemento;
     String Region;
 
+    String Arma;
+
     public String getNombre() {
         return nombre;
     }
@@ -43,5 +45,13 @@ public class Personaje {
 
     public void setRegion(String region) {
         Region = region;
+    }
+
+    public String getArma() {
+        return Arma;
+    }
+
+    public void setArma(String arma) {
+        Arma = arma;
     }
 }
