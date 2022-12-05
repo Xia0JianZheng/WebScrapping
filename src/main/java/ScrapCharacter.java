@@ -130,7 +130,7 @@ public class ScrapCharacter {
             System.out.println("Tipo de Arma = " + arma);
             System.out.println("Rareza = " + rareza);
 
-            CSV csv = new CSV(file);
+            //CSV csv = new CSV(file);
 
 
     }
