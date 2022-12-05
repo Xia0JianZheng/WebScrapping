@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.File;
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -17,6 +18,8 @@ public class ScrapCharacter {
     String[] links;
 
     File file;
+
+    List<Character> characters = new ArrayList<>();
 
     public void start(){
 
@@ -82,12 +85,13 @@ public class ScrapCharacter {
                 urls) {
             getCharacterInfo(li, driver);
         }
+        characters.forEach(System.out::println);
 
 
     }
 
-    public void getCharacterInfo(String url, WebDriver driver) {
-        String nombre, image, elemento, region, arma, rareza, historia;
+    public List<Character> getCharacterInfo(String url, WebDriver driver) {
+        String nombre, image, elemento, region, arma, rareza, descripcion;
         WebDriverWait driverWait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
         driver.get(url);
@@ -99,7 +103,7 @@ public class ScrapCharacter {
         catch (Exception e){
         }
             WebElement weDescription = driver.findElement(new By.ByClassName("mw-parser-output"));
-            historia = weDescription.findElement(new By.ByXPath("//p[4]")).getText();
+            descripcion = weDescription.findElement(new By.ByXPath("//p[4]")).getText();
 
             WebElement we = driver.findElement(new By.ByClassName("portable-infobox"));
             nombre = we.findElement(new By.ByTagName("h2")).getText();
@@ -120,20 +124,23 @@ public class ScrapCharacter {
                 }catch(Exception e2){
                     region = "NONE";
                 }
+                characters.add(new Character(nombre, rareza, descripcion, elemento, region, arma));
 
+                System.out.println("Nombre: " + nombre);
+                System.out.println("Rareza: " + rareza);
+                System.out.println("Descripcion: " + descripcion);
+                System.out.println("Eemento: " + elemento);
+                System.out.println("Region: " + region);
+                System.out.println("Arma: " + arma);
             }
-            System.out.println("Nombre = " + nombre);
-            System.out.println("Link imagen = " + image);
-            System.out.println("Descripción = " + historia);
-            System.out.println("Elemento = " + elemento);
-            System.out.println("Region = " + region);
-            System.out.println("Tipo de Arma = " + arma);
-            System.out.println("Rareza = " + rareza);
 
-            //CSV csv = new CSV(file);
-
-
+            return characters;
     }
+
+    public static void createCSV(List<Character> characters){
+        CSV csv = new CSV(characters);
+    }
+
 
 
 
