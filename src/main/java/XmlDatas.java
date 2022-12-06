@@ -13,11 +13,11 @@ public class XmlDatas {
     }
 
     @XmlElement(name="Character")
-    public void setDatos(List<XmlData> xmlDatas) {
+    public void setXmlDatas(List<XmlData> xmlDatas) {
         this.xmlDatas = xmlDatas;
     }
 
-    public void addDatos(XmlData xmldata){
+    public void addXmlDatas(XmlData xmldata){
         this.xmlDatas.add(xmldata);
     }
 }

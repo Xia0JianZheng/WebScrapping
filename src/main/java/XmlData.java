@@ -3,7 +3,6 @@ import jakarta.xml.bind.annotation.XmlRootElement;
 @XmlRootElement(name="Character")
 public class XmlData {
     String nombre;
-
     String image;
     String rareza;
     String descripcion;
@@ -11,7 +10,7 @@ public class XmlData {
     String region;
     String arma;
 
-    public XmlData(String nombre, String rareza, String image, String descripcion, String elemento, String region, String arma) {
+     XmlData(String nombre, String rareza, String image, String descripcion, String elemento, String region, String arma) {
         this.nombre = nombre;
         this.rareza = rareza;
         this.image = image;
@@ -21,7 +20,7 @@ public class XmlData {
         this.arma = arma;
     }
 
-    public XmlData() {
+     XmlData() {
     }
 
     @XmlElement(name="CHARACATER_NAME")
@@ -79,6 +78,5 @@ public class XmlData {
     public String getArma() {
         return arma;
     }
-
 
 }

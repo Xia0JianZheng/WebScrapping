@@ -19,7 +19,7 @@ public class JAXB {
 
                 for (Character character : characters) {
                     data = new XmlData(character.nombre,character.rareza,character.image,character.descripcion,character.elemento,character.region,character.arma);
-                    datas.addDatos(data);
+                    datas.addXmlDatas(data);
                 }
 
                 jaxbMarshaller = jaxbContext.createMarshaller();
