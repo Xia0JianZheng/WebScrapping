@@ -1,4 +1,7 @@
-public class Character {
+import jakarta.xml.bind.annotation.XmlElement;
+import jakarta.xml.bind.annotation.XmlRootElement;
+@XmlRootElement(name="Character")
+public class XmlData {
     String nombre;
 
     String image;
@@ -8,7 +11,7 @@ public class Character {
     String region;
     String arma;
 
-    public Character(String nombre, String rareza, String image, String descripcion, String elemento, String region, String arma) {
+    public XmlData(String nombre, String rareza, String image, String descripcion, String elemento, String region, String arma) {
         this.nombre = nombre;
         this.rareza = rareza;
         this.image = image;
@@ -18,68 +21,66 @@ public class Character {
         this.arma = arma;
     }
 
+    public XmlData() {
+    }
+
     public String getNombre() {
         return nombre;
     }
 
+    @XmlElement(name="CHARACATER_NAME")
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
 
+
     public String getImage() {
         return image;
+    }
+
+    @XmlElement(name="CHARACTER_IMAGE")
+    public void setImage(String image) {
+        this.image = image;
     }
 
     public String getRareza() {
         return rareza;
     }
 
-    public void setRareza(int rareza) {
-        rareza = rareza;
+    @XmlElement(name="CHARACTER_RAREZA")
+    public void setRareza(String rareza) {
+        this.rareza = rareza;
     }
 
     public String getDescripcion() {
         return descripcion;
     }
-
+    @XmlElement(name="CHARACTER_DESCRIPCION")
     public void setDescripcion(String descripcion) {
-        descripcion = descripcion;
+        this.descripcion = descripcion;
     }
 
     public String getElemento() {
         return elemento;
     }
-
+    @XmlElement(name="CHARACTER_ELEMENTO")
     public void setElemento(String elemento) {
-        elemento = elemento;
+        this.elemento = elemento;
     }
 
     public String getRegion() {
         return region;
     }
-
+    @XmlElement(name="CHARACTER_REGION")
     public void setRegion(String region) {
-        region = region;
+        this.region = region;
     }
 
     public String getArma() {
         return arma;
     }
-
+    @XmlElement(name="CHARACTER_ARMA")
     public void setArma(String arma) {
-        arma = arma;
-    }
-
-    @Override
-    public String toString() {
-        return "Character{" +
-                "nombre='" + nombre + '\'' +
-                ", image='" + image + '\'' +
-                ", rareza='" + rareza + '\'' +
-                ", descripcion='" + descripcion + '\'' +
-                ", elemento='" + elemento + '\'' +
-                ", region='" + region + '\'' +
-                ", arma='" + arma + '\'' +
-                '}';
+        this.arma = arma;
     }
 }

@@ -17,8 +17,6 @@ public class ScrapCharacter {
 
     String[] links;
 
-    File file;
-
     List<Character> characters = new ArrayList<>();
 
     public void start(){
@@ -32,6 +30,7 @@ public class ScrapCharacter {
         if (opt == 1) {
             getLinkCharacters();
             procesarLinks(links);
+            generateCSVyXML(characters);
 
 
         }
@@ -124,27 +123,23 @@ public class ScrapCharacter {
                 }catch(Exception e2){
                     region = "NONE";
                 }
-                characters.add(new Character(nombre, rareza, descripcion, elemento, region, arma));
-
-                System.out.println("Nombre: " + nombre);
-                System.out.println("Rareza: " + rareza);
-                System.out.println("Descripcion: " + descripcion);
-                System.out.println("Eemento: " + elemento);
-                System.out.println("Region: " + region);
-                System.out.println("Arma: " + arma);
             }
+            characters.add(new Character(nombre, rareza, image, descripcion, elemento, region, arma));
+
+            System.out.println("Nombre: " + nombre);
+            System.out.println("Rareza: " + rareza);
+            System.out.println("Image: " + image);
+            System.out.println("Descripcion: " + descripcion);
+            System.out.println("Eemento: " + elemento);
+            System.out.println("Region: " + region);
+            System.out.println("Arma: " + arma);
 
             return characters;
     }
 
-    public static void createCSV(List<Character> characters){
+    public static void generateCSVyXML(List<Character> characters) {
         CSV csv = new CSV(characters);
+        JAXB jaxb = new JAXB(characters);
     }
-
-
-
-
-
-
 
 }
