@@ -42,7 +42,8 @@ public class ScrapCharacter {
         System.out.println(System.getenv("HOME"));
         //  System.out.println(System.getenv(""));
 
-        System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver");
+        System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver.exe");
+        //System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver");
         // File pathBinary = new File("src/main/resources/firefox");
         //  FirefoxBinary firefoxBinary = new FirefoxBinary(pathBinary);
         // DesiredCapabilities desired = new DesiredCapabilities();
@@ -71,7 +72,8 @@ public class ScrapCharacter {
     }
 
     public void procesarLinks(String[] urls) {
-        System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver");
+        System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver.exe");
+        //System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver");
         // File pathBinary = new File("src/main/resources/firefox");
         //  FirefoxBinary firefoxBinary = new FirefoxBinary(pathBinary);
         // DesiredCapabilities desired = new DesiredCapabilities();

@@ -24,63 +24,61 @@ public class XmlData {
     public XmlData() {
     }
 
-    public String getNombre() {
-        return nombre;
-    }
-
     @XmlElement(name="CHARACATER_NAME")
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-
-
-    public String getImage() {
-        return image;
+    public String getNombre() {
+        return nombre;
     }
 
     @XmlElement(name="CHARACTER_IMAGE")
     public void setImage(String image) {
         this.image = image;
     }
-
-    public String getRareza() {
-        return rareza;
+    public String getImage() {
+        return image;
     }
 
     @XmlElement(name="CHARACTER_RAREZA")
     public void setRareza(String rareza) {
         this.rareza = rareza;
     }
-
-    public String getDescripcion() {
-        return descripcion;
+    public String getRareza() {
+        return rareza;
     }
+
     @XmlElement(name="CHARACTER_DESCRIPCION")
     public void setDescripcion(String descripcion) {
         this.descripcion = descripcion;
     }
-
-    public String getElemento() {
-        return elemento;
+    public String getDescripcion() {
+        return descripcion;
     }
+
     @XmlElement(name="CHARACTER_ELEMENTO")
     public void setElemento(String elemento) {
         this.elemento = elemento;
     }
-
-    public String getRegion() {
-        return region;
+    public String getElemento() {
+        return elemento;
     }
+
     @XmlElement(name="CHARACTER_REGION")
     public void setRegion(String region) {
         this.region = region;
     }
-
-    public String getArma() {
-        return arma;
+    public String getRegion() {
+        return region;
     }
+
     @XmlElement(name="CHARACTER_ARMA")
     public void setArma(String arma) {
         this.arma = arma;
     }
+    public String getArma() {
+        return arma;
+    }
+
+
 }

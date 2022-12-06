@@ -13,8 +13,8 @@ public class XmlDatas {
     }
 
     @XmlElement(name="Character")
-    public void setDatos(List<XmlData> xmlDatos) {
-        this.xmlDatas = xmlDatos;
+    public void setDatos(List<XmlData> xmlDatas) {
+        this.xmlDatas = xmlDatas;
     }
 
     public void addDatos(XmlData xmldata){
