@@ -1,85 +1,96 @@
+import jakarta.xml.bind.annotation.XmlElement;
+import jakarta.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name="Character")
 public class Character {
-    String nombre;
-
+    String name;
     String image;
-    String rareza;
-    String descripcion;
-    String elemento;
+    String rarity;
+    String description;
+    String element;
     String region;
-    String arma;
+    String weapon;
 
-    public Character(String nombre, String rareza, String image, String descripcion, String elemento, String region, String arma) {
-        this.nombre = nombre;
-        this.rareza = rareza;
+    public Character(String name, String rarity, String image, String description, String element, String region, String weapon) {
+        this.name = name;
+        this.rarity = rarity;
         this.image = image;
-        this.descripcion = descripcion;
-        this.elemento = elemento;
+        this.description = description;
+        this.element = element;
         this.region = region;
-        this.arma = arma;
+        this.weapon = weapon;
     }
 
-    public String getNombre() {
-        return nombre;
+    Character(){
+
     }
 
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
+    @XmlElement(name="CHARACATER_NAME")
+    public void setName(String name) {
+        this.name = name;
+    }
+    public String getName() {
+        return name;
     }
 
+    @XmlElement(name="CHARACTER_IMAGE")
+    public void setImage(String image) {
+        this.image = image;
+    }
     public String getImage() {
         return image;
     }
 
-    public String getRareza() {
-        return rareza;
+    @XmlElement(name="CHARACTER_RAREZA")
+    public void setRarity(String rarity) {
+        this.rarity = rarity;
+    }
+    public String getRarity() {
+        return rarity;
     }
 
-    public void setRareza(int rareza) {
-        rareza = rareza;
+    @XmlElement(name="CHARACTER_DESCRIPCION")
+    public void setDescription(String description) {
+        this.description = description;
+    }
+    public String getDescription() {
+        return description;
     }
 
-    public String getDescripcion() {
-        return descripcion;
+    @XmlElement(name="CHARACTER_ELEMENTO")
+    public void setElement(String element) {
+        this.element = element;
+    }
+    public String getElement() {
+        return element;
     }
 
-    public void setDescripcion(String descripcion) {
-        descripcion = descripcion;
+    @XmlElement(name="CHARACTER_REGION")
+    public void setRegion(String region) {
+        this.region = region;
     }
-
-    public String getElemento() {
-        return elemento;
-    }
-
-    public void setElemento(String elemento) {
-        elemento = elemento;
-    }
-
     public String getRegion() {
         return region;
     }
 
-    public void setRegion(String region) {
-        region = region;
+    @XmlElement(name="CHARACTER_ARMA")
+    public void setWeapon(String weapon) {
+        this.weapon = weapon;
     }
-
-    public String getArma() {
-        return arma;
-    }
-
-    public void setArma(String arma) {
-        arma = arma;
+    public String getWeapon() {
+        return weapon;
     }
 
     @Override
     public String toString() {
         return "Character{" +
-                "nombre='" + nombre + '\'' +
+                "nombre='" + name + '\'' +
                 ", image='" + image + '\'' +
-                ", rareza='" + rareza + '\'' +
-                ", descripcion='" + descripcion + '\'' +
-                ", elemento='" + elemento + '\'' +
+                ", rareza='" + rarity + '\'' +
+                ", descripcion='" + description + '\'' +
+                ", elemento='" + element + '\'' +
                 ", region='" + region + '\'' +
-                ", arma='" + arma + '\'' +
+                ", arma='" + weapon + '\'' +
                 '}';
     }
 }

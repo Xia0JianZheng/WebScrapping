@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Artifacts>
+    <Artifact>
+        <CIRCLETOFLOGOS>NULL</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Initiate's Flower</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>NULL</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>NULL</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Initiate%27s_Flower.png/revision/latest/scale-to-width-down/60?cb=20210514215057</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>NULL</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Item_Initiate%27s_Feather.png/revision/latest/scale-to-width-down/60?cb=20210514215058</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>NULL</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Initiate's Feather</PLUMEOFDEATH>
+        <SANDSOFEON>NULL</SANDSOFEON>
+        <SET_NAME>Initiate</SET_NAME>
+        <X2Bonus>NULL</X2Bonus>
+        <X4Bonus>NULL</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Adventurer's Bandana</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Adventurer's Flower</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Adventurer's Golden Goblet</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Adventurer%27s_Bandana.png/revision/latest/scale-to-width-down/60?cb=20201120051739</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Adventurer%27s_Flower.png/revision/latest/scale-to-width-down/60?cb=20201120051635</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Item_Adventurer%27s_Golden_Goblet.png/revision/latest/scale-to-width-down/60?cb=20201120051727</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Adventurer%27s_Tail_Feather.png/revision/latest/scale-to-width-down/60?cb=20201120051654</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Adventurer%27s_Pocket_Watch.png/revision/latest/scale-to-width-down/60?cb=20201120051708</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Adventurer's Tail Feather</PLUMEOFDEATH>
+        <SANDSOFEON>Adventurer's Pocket Watch</SANDSOFEON>
+        <SET_NAME>Adventurer</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Max HP increased by 1,000.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Opening a chest regenerates 30% Max HP over 5s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Lucky Dog's Silver Circlet</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Lucky Dog's Clover</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Lucky Dog's Goblet</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Lucky_Dog%27s_Silver_Circlet.png/revision/latest/scale-to-width-down/60?cb=20201120052544</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Lucky_Dog%27s_Clover.png/revision/latest/scale-to-width-down/60?cb=20201120052434</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Lucky_Dog%27s_Goblet.png/revision/latest/scale-to-width-down/60?cb=20201120052515</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Lucky_Dog%27s_Eagle_Feather.png/revision/latest/scale-to-width-down/60?cb=20201120052445</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Lucky_Dog%27s_Hourglass.png/revision/latest/scale-to-width-down/60?cb=20201120052500</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Lucky Dog's Eagle Feather</PLUMEOFDEATH>
+        <SANDSOFEON>Lucky Dog's Hourglass</SANDSOFEON>
+        <SET_NAME>Lucky Dog</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+DEF increased by 100.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Picking up Mora restores 300 HP.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Traveling Doctor's Handkerchief</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Traveling Doctor's Silver Lotus</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Traveling Doctor's Medicine Pot</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/1/18/Item_Traveling_Doctor%27s_Handkerchief.png/revision/latest/scale-to-width-down/60?cb=20201120052333</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Traveling_Doctor%27s_Silver_Lotus.png/revision/latest/scale-to-width-down/60?cb=20201120052230</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Traveling_Doctor%27s_Medicine_Pot.png/revision/latest/scale-to-width-down/60?cb=20201120052322</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Traveling_Doctor%27s_Owl_Feather.png/revision/latest/scale-to-width-down/60?cb=20201120052246</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Item_Traveling_Doctor%27s_Pocket_Watch.png/revision/latest/scale-to-width-down/60?cb=20201120052258</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Traveling Doctor's Owl Feather</PLUMEOFDEATH>
+        <SANDSOFEON>Traveling Doctor's Pocket Watch</SANDSOFEON>
+        <SET_NAME>Traveling Doctor</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Increases incoming healing by 20%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Using Elemental Burst restores 20% HP.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Legacy of the Desert High-Born</CIRCLETOFLOGOS>
+        <HEADOFLIFE>The First Days of the City of Kings</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Defender of the Enchanting Dream</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Legacy_of_the_Desert_High-Born.png/revision/latest/scale-to-width-down/60?cb=20221207030400</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_The_First_Days_of_the_City_of_Kings.png/revision/latest/scale-to-width-down/60?cb=20221207030405</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Defender_of_the_Enchanting_Dream.png/revision/latest/scale-to-width-down/60?cb=20221207030356</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/4/49/Item_End_of_the_Golden_Realm.png/revision/latest/scale-to-width-down/60?cb=20221207030358</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Timepiece_of_the_Lost_Path.png/revision/latest/scale-to-width-down/60?cb=20221207030410</IMGSANDSOFEON>
+        <PLUMEOFDEATH>End of the Golden Realm</PLUMEOFDEATH>
+        <SANDSOFEON>Timepiece of the Lost Path</SANDSOFEON>
+        <SET_NAME>Desert Pavilion Chronicle</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Anemo DMG Bonus +15%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Amethyst Crown</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Ay-Khanoum's Myriad</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Secret-Keeper's Magic Bottle</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/0/09/Item_Amethyst_Crown.png/revision/latest/scale-to-width-down/60?cb=20221207030348</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Ay-Khanoum%27s_Myriad.png/revision/latest/scale-to-width-down/60?cb=20221207030350</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Secret-Keeper%27s_Magic_Bottle.png/revision/latest/scale-to-width-down/60?cb=20221207030402</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Wilting_Feast.png/revision/latest/scale-to-width-down/60?cb=20221207030412</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_A_Moment_Congealed.png/revision/latest/scale-to-width-down/60?cb=20221207030346</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Wilting Feast</PLUMEOFDEATH>
+        <SANDSOFEON>A Moment Congealed</SANDSOFEON>
+        <SET_NAME>Flower of Paradise Lost</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Increases Elemental Mastery by 80.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Crown of Parting</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Heart of Comradeship</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Goblet of the Sojourner</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Crown_of_Parting.png/revision/latest/scale-to-width-down/60?cb=20201120055642</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Heart_of_Comradeship.png/revision/latest/scale-to-width-down/60?cb=20201120055604</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Goblet_of_the_Sojourner.png/revision/latest/scale-to-width-down/60?cb=20201120055633</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Feather_of_Homecoming.png/revision/latest/scale-to-width-down/60?cb=20201120055615</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Sundial_of_the_Sojourner.png/revision/latest/scale-to-width-down/60?cb=20201120055626</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Feather of Homecoming</PLUMEOFDEATH>
+        <SANDSOFEON>Sundial of the Sojourner</SANDSOFEON>
+        <SET_NAME>Resolution of Sojourner</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+ATK +18%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Increases Charged Attack CRIT Rate by 30%.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Tiny Miracle's Earrings</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Tiny Miracle's Flower</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Tiny Miracle's Goblet</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Tiny_Miracle%27s_Earrings.png/revision/latest/scale-to-width-down/60?cb=20201120060428</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/6/68/Item_Tiny_Miracle%27s_Flower.png/revision/latest/scale-to-width-down/60?cb=20201120060259</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/5/52/Item_Tiny_Miracle%27s_Goblet.png/revision/latest/scale-to-width-down/60?cb=20201120060419</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/8/89/Item_Tiny_Miracle%27s_Feather.png/revision/latest/scale-to-width-down/60?cb=20201120060340</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Tiny_Miracle%27s_Hourglass.png/revision/latest/scale-to-width-down/60?cb=20201120060350</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Tiny Miracle's Feather</PLUMEOFDEATH>
+        <SANDSOFEON>Tiny Miracle's Hourglass</SANDSOFEON>
+        <SET_NAME>Tiny Miracle</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+All Elemental RES increased by 20%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Incoming Elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Berserker's Battle Mask</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Berserker's Rose</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Berserker's Bone Goblet</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Berserker%27s_Battle_Mask.png/revision/latest/scale-to-width-down/60?cb=20220202000855</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Berserker%27s_Rose.png/revision/latest/scale-to-width-down/60?cb=20220202000733</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/d/da/Item_Berserker%27s_Bone_Goblet.png/revision/latest/scale-to-width-down/60?cb=20201120054003</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Item_Berserker%27s_Indigo_Feather.png/revision/latest/scale-to-width-down/60?cb=20201120053942</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Item_Berserker%27s_Timepiece.png/revision/latest/scale-to-width-down/60?cb=20201120053952</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Berserker's Indigo Feather</PLUMEOFDEATH>
+        <SANDSOFEON>Berserker's Timepiece</SANDSOFEON>
+        <SET_NAME>Berserker</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+CRIT Rate +12%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+When HP is below 70%, CRIT Rate increases by an additional 24%.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Instructor's Cap</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Instructor's Brooch</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Instructor's Tea Cup</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/d/da/Item_Instructor%27s_Cap.png/revision/latest/scale-to-width-down/60?cb=20201120053824</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Instructor%27s_Brooch.png/revision/latest/scale-to-width-down/60?cb=20201120053706</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Instructor%27s_Tea_Cup.png/revision/latest/scale-to-width-down/60?cb=20201120053813</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/a/af/Item_Instructor%27s_Feather_Accessory.png/revision/latest/scale-to-width-down/60?cb=20201120053734</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Instructor%27s_Pocket_Watch.png/revision/latest/scale-to-width-down/60?cb=20201120053803</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Instructor's Feather Accessory</PLUMEOFDEATH>
+        <SANDSOFEON>Instructor's Pocket Watch</SANDSOFEON>
+        <SET_NAME>Instructor</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Increases Elemental Mastery by 80.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Exile's Circlet</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Exile's Flower</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Exile's Goblet</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Exile%27s_Circlet.png/revision/latest/scale-to-width-down/60?cb=20201120054256</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Item_Exile%27s_Flower.png/revision/latest/scale-to-width-down/60?cb=20201120054137</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Exile%27s_Goblet.png/revision/latest/scale-to-width-down/60?cb=20201120054213</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Item_Exile%27s_Feather.png/revision/latest/scale-to-width-down/60?cb=20201120054148</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Item_Exile%27s_Pocket_Watch.png/revision/latest/scale-to-width-down/60?cb=20201120054202</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Exile's Feather</PLUMEOFDEATH>
+        <SANDSOFEON>Exile's Pocket Watch</SANDSOFEON>
+        <SET_NAME>The Exile</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Energy Recharge +20%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Guardian's Band</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Guardian's Flower</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Guardian's Vessel</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Item_Guardian%27s_Band.png/revision/latest/scale-to-width-down/60?cb=20201120060040</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/6/63/Item_Guardian%27s_Flower.png/revision/latest/scale-to-width-down/60?cb=20201120055924</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Guardian%27s_Vessel.png/revision/latest/scale-to-width-down/60?cb=20201120060031</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Guardian%27s_Sigil.png/revision/latest/scale-to-width-down/60?cb=20201120055937</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Guardian%27s_Clock.png/revision/latest/scale-to-width-down/60?cb=20201120060015</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Guardian's Sigil</PLUMEOFDEATH>
+        <SANDSOFEON>Guardian's Clock</SANDSOFEON>
+        <SET_NAME>Defender's Will</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+DEF +30%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Crown of the Brave</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Medal of the Brave</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Outset of the Brave</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Crown_of_the_Brave.png/revision/latest/scale-to-width-down/60?cb=20201120062627</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Item_Medal_of_the_Brave.png/revision/latest/scale-to-width-down/60?cb=20201120062546</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/4/49/Item_Outset_of_the_Brave.png/revision/latest/scale-to-width-down/60?cb=20201120062619</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Prospect_of_the_Brave.png/revision/latest/scale-to-width-down/60?cb=20201120062559</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Fortitude_of_the_Brave.png/revision/latest/scale-to-width-down/60?cb=20201120062607</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Prospect of the Brave</PLUMEOFDEATH>
+        <SANDSOFEON>Fortitude of the Brave</SANDSOFEON>
+        <SET_NAME>Brave Heart</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+ATK +18%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Increases DMG by 30% against opponents with more than 50% HP.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Martial Artist's Bandana</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Martial Artist's Red Flower</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Martial Artist's Wine Cup</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Martial_Artist%27s_Bandana.png/revision/latest/scale-to-width-down/60?cb=20201120055837</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Martial_Artist%27s_Red_Flower.png/revision/latest/scale-to-width-down/60?cb=20201120055759</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Martial_Artist%27s_Wine_Cup.png/revision/latest/scale-to-width-down/60?cb=20201120055827</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Item_Martial_Artist%27s_Feather_Accessory.png/revision/latest/scale-to-width-down/60?cb=20201120055810</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Martial_Artist%27s_Water_Hourglass.png/revision/latest/scale-to-width-down/60?cb=20201120055819</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Martial Artist's Feather Accessory</PLUMEOFDEATH>
+        <SANDSOFEON>Martial Artist's Water Hourglass</SANDSOFEON>
+        <SET_NAME>Martial Artist</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Increases Normal Attack and Charged Attack DMG by 15%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Gambler's Earrings</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Gambler's Brooch</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Gambler's Dice Cup</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Gambler%27s_Earrings.png/revision/latest/scale-to-width-down/60?cb=20201120062950</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Gambler%27s_Brooch.png/revision/latest/scale-to-width-down/60?cb=20201120062914</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_Gambler%27s_Dice_Cup.png/revision/latest/scale-to-width-down/60?cb=20201120062942</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Gambler%27s_Feather_Accessory.png/revision/latest/scale-to-width-down/60?cb=20201120062922</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Item_Gambler%27s_Pocket_Watch.png/revision/latest/scale-to-width-down/60?cb=20201120062934</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Gambler's Feather Accessory</PLUMEOFDEATH>
+        <SANDSOFEON>Gambler's Pocket Watch</SANDSOFEON>
+        <SET_NAME>Gambler</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Increases Elemental Skill DMG by 20%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Defeating an opponent has 100% chance to remove Elemental Skill CD. Can only occur once every 15s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Scholar's Lens</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Scholar's Bookmark</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Scholar's Ink Cup</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Scholar%27s_Lens.png/revision/latest/scale-to-width-down/60?cb=20201120063144</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Scholar%27s_Bookmark.png/revision/latest/scale-to-width-down/60?cb=20201120063103</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Scholar%27s_Ink_Cup.png/revision/latest/scale-to-width-down/60?cb=20201120063134</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/5/52/Item_Scholar%27s_Quill_Pen.png/revision/latest/scale-to-width-down/60?cb=20201120063115</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Scholar%27s_Clock.png/revision/latest/scale-to-width-down/60?cb=20201120063123</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Scholar's Quill Pen</PLUMEOFDEATH>
+        <SANDSOFEON>Scholar's Clock</SANDSOFEON>
+        <SET_NAME>Scholar</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Energy Recharge +20%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>NULL</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Tiara of Thunder</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>NULL</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>NULL</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Tiara_of_Thunder.png/revision/latest/scale-to-width-down/60?cb=20201120054405</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>NULL</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>NULL</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>NULL</IMGSANDSOFEON>
+        <PLUMEOFDEATH>NULL</PLUMEOFDEATH>
+        <SANDSOFEON>NULL</SANDSOFEON>
+        <SET_NAME>Prayers for Wisdom</SET_NAME>
+        <X2Bonus>NULL</X2Bonus>
+        <X4Bonus>NULL</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>NULL</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Tiara of Torrents</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>NULL</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>NULL</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Item_Tiara_of_Torrents.png/revision/latest/scale-to-width-down/60?cb=20201120054713</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>NULL</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>NULL</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>NULL</IMGSANDSOFEON>
+        <PLUMEOFDEATH>NULL</PLUMEOFDEATH>
+        <SANDSOFEON>NULL</SANDSOFEON>
+        <SET_NAME>Prayers for Destiny</SET_NAME>
+        <X2Bonus>NULL</X2Bonus>
+        <X4Bonus>NULL</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>NULL</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Tiara of Flame</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>NULL</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>NULL</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/1/18/Item_Tiara_of_Flame.png/revision/latest/scale-to-width-down/60?cb=20201120054540</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>NULL</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>NULL</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>NULL</IMGSANDSOFEON>
+        <PLUMEOFDEATH>NULL</PLUMEOFDEATH>
+        <SANDSOFEON>NULL</SANDSOFEON>
+        <SET_NAME>Prayers for Illumination</SET_NAME>
+        <X2Bonus>NULL</X2Bonus>
+        <X4Bonus>NULL</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>NULL</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Tiara of Frost</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>NULL</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>NULL</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Tiara_of_Frost.png/revision/latest/scale-to-width-down/60?cb=20201120054507</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>NULL</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>NULL</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>NULL</IMGSANDSOFEON>
+        <PLUMEOFDEATH>NULL</PLUMEOFDEATH>
+        <SANDSOFEON>NULL</SANDSOFEON>
+        <SET_NAME>Prayers to Springtime</SET_NAME>
+        <X2Bonus>NULL</X2Bonus>
+        <X4Bonus>NULL</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Gladiator's Triumphus</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Gladiator's Nostalgia</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Gladiator's Intoxication</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Gladiator%27s_Triumphus.png/revision/latest/scale-to-width-down/60?cb=20201120063353</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Gladiator%27s_Nostalgia.png/revision/latest/scale-to-width-down/60?cb=20201120063313</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Gladiator%27s_Intoxication.png/revision/latest/scale-to-width-down/60?cb=20201120063342</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Gladiator%27s_Destiny.png/revision/latest/scale-to-width-down/60?cb=20201120063322</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Gladiator%27s_Longing.png/revision/latest/scale-to-width-down/60?cb=20201120063332</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Gladiator's Destiny</PLUMEOFDEATH>
+        <SANDSOFEON>Gladiator's Longing</SANDSOFEON>
+        <SET_NAME>Gladiator's Finale</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+ATK +18%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Conductor's Top Hat</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Troupe's Dawnlight</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Wanderer's String-Kettle</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Conductor%27s_Top_Hat.png/revision/latest/scale-to-width-down/60?cb=20201120064011</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Troupe%27s_Dawnlight.png/revision/latest/scale-to-width-down/60?cb=20201120063930</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wanderer%27s_String-Kettle.png/revision/latest/scale-to-width-down/60?cb=20201120064002</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Bard%27s_Arrow_Feather.png/revision/latest/scale-to-width-down/60?cb=20201120063940</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Item_Concert%27s_Final_Hour.png/revision/latest/scale-to-width-down/60?cb=20201120063951</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Bard's Arrow Feather</PLUMEOFDEATH>
+        <SANDSOFEON>Concert's Final Hour</SANDSOFEON>
+        <SET_NAME>Wanderer's Troupe</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Increases Elemental Mastery by 80.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Increases Charged Attack DMG by 35% if the character uses a Catalyst or Bow.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Royal Masque</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Royal Flora</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Royal Silver Urn</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Royal_Masque.png/revision/latest/scale-to-width-down/60?cb=20201120063649</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Royal_Flora.png/revision/latest/scale-to-width-down/60?cb=20201120063610</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Item_Royal_Silver_Urn.png/revision/latest/scale-to-width-down/60?cb=20201120063636</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Royal_Plume.png/revision/latest/scale-to-width-down/60?cb=20201120063619</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Royal_Pocket_Watch.png/revision/latest/scale-to-width-down/60?cb=20201120063628</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Royal Plume</PLUMEOFDEATH>
+        <SANDSOFEON>Royal Pocket Watch</SANDSOFEON>
+        <SET_NAME>Noblesse Oblige</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Elemental Burst DMG +20%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Bloodstained Iron Mask</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Bloodstained Flower of Iron</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Bloodstained Chevalier's Goblet</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Bloodstained_Iron_Mask.png/revision/latest/scale-to-width-down/60?cb=20201120063804</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Item_Bloodstained_Flower_of_Iron.png/revision/latest/scale-to-width-down/60?cb=20201120063726</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Bloodstained_Chevalier%27s_Goblet.png/revision/latest/scale-to-width-down/60?cb=20201120063755</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Item_Bloodstained_Black_Plume.png/revision/latest/scale-to-width-down/60?cb=20201120063735</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Bloodstained_Final_Hour.png/revision/latest/scale-to-width-down/60?cb=20201120063745</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Bloodstained Black Plume</PLUMEOFDEATH>
+        <SANDSOFEON>Bloodstained Final Hour</SANDSOFEON>
+        <SET_NAME>Bloodstained Chivalry</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Physical DMG Bonus +25%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s. Also triggers with wild animals such as boars, squirrels and frogs.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Maiden's Fading Beauty</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Maiden's Distant Love</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Maiden's Fleeting Leisure</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/8/82/Item_Maiden%27s_Fading_Beauty.png/revision/latest/scale-to-width-down/60?cb=20201120063505</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Maiden%27s_Distant_Love.png/revision/latest/scale-to-width-down/60?cb=20201120063428</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Maiden%27s_Fleeting_Leisure.png/revision/latest/scale-to-width-down/60?cb=20201120063454</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Maiden%27s_Heart-Stricken_Infatuation.png/revision/latest/scale-to-width-down/60?cb=20201120063437</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Maiden%27s_Passing_Youth.png/revision/latest/scale-to-width-down/60?cb=20201120063446</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Maiden's Heart-Stricken Infatuation</PLUMEOFDEATH>
+        <SANDSOFEON>Maiden's Passing Youth</SANDSOFEON>
+        <SET_NAME>Maiden Beloved</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Character Healing Effectiveness +15%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Viridescent Venerer's Diadem</CIRCLETOFLOGOS>
+        <HEADOFLIFE>In Remembrance of Viridescent Fields</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Viridescent Venerer's Vessel</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Viridescent_Venerer%27s_Diadem.png/revision/latest/scale-to-width-down/60?cb=20201120064550</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_In_Remembrance_of_Viridescent_Fields.png/revision/latest/scale-to-width-down/60?cb=20201120064508</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Viridescent_Venerer%27s_Vessel.png/revision/latest/scale-to-width-down/60?cb=20201120064534</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Viridescent_Arrow_Feather.png/revision/latest/scale-to-width-down/60?cb=20201120064516</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Viridescent_Venerer%27s_Determination.png/revision/latest/scale-to-width-down/60?cb=20201120064525</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Viridescent Arrow Feather</PLUMEOFDEATH>
+        <SANDSOFEON>Viridescent Venerer's Determination</SANDSOFEON>
+        <SET_NAME>Viridescent Venerer</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Anemo DMG Bonus +15%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Mask of Solitude Basalt</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Flower of Creviced Cliff</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Goblet of Chiseled Crag</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/0/09/Item_Mask_of_Solitude_Basalt.png/revision/latest/scale-to-width-down/60?cb=20201120065000</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Flower_of_Creviced_Cliff.png/revision/latest/scale-to-width-down/60?cb=20201120064841</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Goblet_of_Chiseled_Crag.png/revision/latest/scale-to-width-down/60?cb=20201120064951</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Feather_of_Jagged_Peaks.png/revision/latest/scale-to-width-down/60?cb=20201120064919</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Sundial_of_Enduring_Jade.png/revision/latest/scale-to-width-down/60?cb=20201120064941</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Feather of Jagged Peaks</PLUMEOFDEATH>
+        <SANDSOFEON>Sundial of Enduring Jade</SANDSOFEON>
+        <SET_NAME>Archaic Petra</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Geo DMG Bonus +15%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Summer Night's Mask</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Summer Night's Bloom</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Summer Night's Waterballoon</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Summer_Night%27s_Mask.png/revision/latest/scale-to-width-down/60?cb=20201120064405</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Summer_Night%27s_Bloom.png/revision/latest/scale-to-width-down/60?cb=20201120064133</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Item_Summer_Night%27s_Waterballoon.png/revision/latest/scale-to-width-down/60?cb=20201120064320</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Summer_Night%27s_Finale.png/revision/latest/scale-to-width-down/60?cb=20201120064151</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/3/34/Item_Summer_Night%27s_Moment.png/revision/latest/scale-to-width-down/60?cb=20201120064255</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Summer Night's Finale</PLUMEOFDEATH>
+        <SANDSOFEON>Summer Night's Moment</SANDSOFEON>
+        <SET_NAME>Retracing Bolide</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Increases Shield Strength by 35%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Thundersoother's Diadem</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Thundersoother's Heart</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Thundersoother's Goblet</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Thundersoother%27s_Diadem.png/revision/latest/scale-to-width-down/60?cb=20201120065551</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Thundersoother%27s_Heart.png/revision/latest/scale-to-width-down/60?cb=20201120065517</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Thundersoother%27s_Goblet.png/revision/latest/scale-to-width-down/60?cb=20201120065626</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Thundersoother%27s_Plume.png/revision/latest/scale-to-width-down/60?cb=20201120065527</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Item_Hour_of_Soothing_Thunder.png/revision/latest/scale-to-width-down/60?cb=20201120065535</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Thundersoother's Plume</PLUMEOFDEATH>
+        <SANDSOFEON>Hour of Soothing Thunder</SANDSOFEON>
+        <SET_NAME>Thundersoother</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Electro RES increased by 40%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Increases DMG against opponents affected by Electro by 35%.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Thunder Summoner's Crown</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Thunderbird's Mercy</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Omen of Thunderstorm</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Thunder_Summoner%27s_Crown.png/revision/latest/scale-to-width-down/60?cb=20201120064711</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Thunderbird%27s_Mercy.png/revision/latest/scale-to-width-down/60?cb=20201120064634</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Omen_of_Thunderstorm.png/revision/latest/scale-to-width-down/60?cb=20201120064701</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Survivor_of_Catastrophe.png/revision/latest/scale-to-width-down/60?cb=20201120064643</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Hourglass_of_Thunder.png/revision/latest/scale-to-width-down/60?cb=20201120064652</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Survivor of Catastrophe</PLUMEOFDEATH>
+        <SANDSOFEON>Hourglass of Thunder</SANDSOFEON>
+        <SET_NAME>Thundering Fury</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Electro DMG Bonus +15%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Lavawalker's Wisdom</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Lavawalker's Resolution</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Lavawalker's Epiphany</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/6/63/Item_Lavawalker%27s_Wisdom.png/revision/latest/scale-to-width-down/60?cb=20201120065219</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Lavawalker%27s_Resolution.png/revision/latest/scale-to-width-down/60?cb=20201120065116</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Item_Lavawalker%27s_Epiphany.png/revision/latest/scale-to-width-down/60?cb=20201120065152</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Item_Lavawalker%27s_Salvation.png/revision/latest/scale-to-width-down/60?cb=20201120065131</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Item_Lavawalker%27s_Torment.png/revision/latest/scale-to-width-down/60?cb=20201120065142</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Lavawalker's Salvation</PLUMEOFDEATH>
+        <SANDSOFEON>Lavawalker's Torment</SANDSOFEON>
+        <SET_NAME>Lavawalker</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Pyro RES increased by 40%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Increases DMG against opponents affected by Pyro by 35%.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Witch's Scorching Hat</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Witch's Flower of Blaze</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Witch's Heart Flames</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Witch%27s_Scorching_Hat.png/revision/latest/scale-to-width-down/60?cb=20201120065429</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Witch%27s_Flower_of_Blaze.png/revision/latest/scale-to-width-down/60?cb=20201120065356</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Witch%27s_Heart_Flames.png/revision/latest/scale-to-width-down/60?cb=20201120065420</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Witch%27s_Ever-Burning_Plume.png/revision/latest/scale-to-width-down/60?cb=20201120065406</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Witch%27s_End_Time.png/revision/latest/scale-to-width-down/60?cb=20201120065447</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Witch's Ever-Burning Plume</PLUMEOFDEATH>
+        <SANDSOFEON>Witch's End Time</SANDSOFEON>
+        <SET_NAME>Crimson Witch of Flames</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Pyro DMG Bonus +15%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Broken Rime's Echo</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Snowswept Memory</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Frost-Weaved Dignity</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/d/df/Item_Broken_Rime%27s_Echo.png/revision/latest/scale-to-width-down/60?cb=20201225230157</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Snowswept_Memory.png/revision/latest/scale-to-width-down/60?cb=20201225230245</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Frost-Weaved_Dignity.png/revision/latest/scale-to-width-down/60?cb=20201225230040</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Icebreaker%27s_Resolve.png/revision/latest/scale-to-width-down/60?cb=20201225230054</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Frozen_Homeland%27s_Demise.png/revision/latest/scale-to-width-down/60?cb=20201225230234</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Icebreaker's Resolve</PLUMEOFDEATH>
+        <SANDSOFEON>Frozen Homeland's Demise</SANDSOFEON>
+        <SET_NAME>Icebreaker</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Cryo DMG Bonus +15%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Wine-Stained Tricorne</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Gilded Corsage</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Goblet of Thundering Deep</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Wine-Stained_Tricorne.png/revision/latest/scale-to-width-down/60?cb=20201225230357</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Gilded_Corsage.png/revision/latest/scale-to-width-down/60?cb=20201225230417</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Item_Goblet_of_Thundering_Deep.png/revision/latest/scale-to-width-down/60?cb=20220202001855</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_Gust_of_Nostalgia.png/revision/latest/scale-to-width-down/60?cb=20201225230410</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/8/83/Item_Copper_Compass.png/revision/latest/scale-to-width-down/60?cb=20201225230459</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Gust of Nostalgia</PLUMEOFDEATH>
+        <SANDSOFEON>Copper Compass</SANDSOFEON>
+        <SET_NAME>Heart of Depth</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Hydro DMG Bonus +15%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+After using an Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>General's Ancient Helm</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Flower of Accolades</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Noble's Pledging Vessel</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_General%27s_Ancient_Helm.png/revision/latest/scale-to-width-down/60?cb=20210428200250</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Flower_of_Accolades.png/revision/latest/scale-to-width-down/60?cb=20210416205617</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Noble%27s_Pledging_Vessel.png/revision/latest/scale-to-width-down/60?cb=20210428200251</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/8/86/Item_Ceremonial_War-Plume.png/revision/latest/scale-to-width-down/60?cb=20210428200249</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_Orichalceous_Time-Dial.png/revision/latest/scale-to-width-down/60?cb=20210428200248</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Ceremonial War-Plume</PLUMEOFDEATH>
+        <SANDSOFEON>Orichalceous Time-Dial</SANDSOFEON>
+        <SET_NAME>Tenacity of the Millelith</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+HP +20%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Mocking Mask</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Stainless Bloom</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Surpassing Cup</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Mocking_Mask.png/revision/latest/scale-to-width-down/60?cb=20210428200636</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Stainless_Bloom.png/revision/latest/scale-to-width-down/60?cb=20210416205644</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Surpassing_Cup.png/revision/latest/scale-to-width-down/60?cb=20210428200638</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Item_Wise_Doctor%27s_Pinion.png/revision/latest/scale-to-width-down/60?cb=20210428200635</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Moment_of_Cessation.png/revision/latest/scale-to-width-down/60?cb=20210428200637</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Wise Doctor's Pinion</PLUMEOFDEATH>
+        <SANDSOFEON>Moment of Cessation</SANDSOFEON>
+        <SET_NAME>Pale Flame</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Physical DMG Bonus +25%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Capricious Visage</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Entangling Bloom</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Hopeful Heart</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Capricious_Visage.png/revision/latest/scale-to-width-down/60?cb=20210721030041</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Entangling_Bloom.png/revision/latest/scale-to-width-down/60?cb=20210721030058</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/8/86/Item_Hopeful_Heart.png/revision/latest/scale-to-width-down/60?cb=20210721030110</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shaft_of_Remembrance.png/revision/latest/scale-to-width-down/60?cb=20210721030214</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_Morning_Dew%27s_Moment.png/revision/latest/scale-to-width-down/60?cb=20210721030136</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Shaft of Remembrance</PLUMEOFDEATH>
+        <SANDSOFEON>Morning Dew's Moment</SANDSOFEON>
+        <SET_NAME>Shimenawa's Reminiscence</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+ATK +18%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Ornate Kabuto</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Magnificent Tsuba</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Scarlet Vessel</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Ornate_Kabuto.png/revision/latest/scale-to-width-down/60?cb=20210721030152</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Magnificent_Tsuba.png/revision/latest/scale-to-width-down/60?cb=20210721030125</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/0/00/Item_Scarlet_Vessel.png/revision/latest/scale-to-width-down/60?cb=20210721030208</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Sundered_Feather.png/revision/latest/scale-to-width-down/60?cb=20210721030225</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Storm_Cage.png/revision/latest/scale-to-width-down/60?cb=20210721030223</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Sundered Feather</PLUMEOFDEATH>
+        <SANDSOFEON>Storm Cage</SANDSOFEON>
+        <SET_NAME>Emblem of Severed Fate</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Energy Recharge +20%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Skeletal Hat</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Bloom Times</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Calabash of Awakening</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Skeletal_Hat.png/revision/latest/scale-to-width-down/60?cb=20211124024522</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Bloom_Times.png/revision/latest/scale-to-width-down/60?cb=20211124024926</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/6/63/Item_Calabash_of_Awakening.png/revision/latest/scale-to-width-down/60?cb=20211124024245</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Plume_of_Luxury.png/revision/latest/scale-to-width-down/60?cb=20211124024107</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Song_of_Life.png/revision/latest/scale-to-width-down/60?cb=20211124024504</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Plume of Luxury</PLUMEOFDEATH>
+        <SANDSOFEON>Song of Life</SANDSOFEON>
+        <SET_NAME>Husk of Opulent Dreams</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+DEF +30%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions:
+When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s.
+When off the field, the character gains 1 stack every 3s.
+Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus.
+When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Crown of Watatsumi</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Sea-Dyed Blossom</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Pearl Cage</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Crown_of_Watatsumi.png/revision/latest/scale-to-width-down/60?cb=20211124071327</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Sea-Dyed_Blossom.png/revision/latest/scale-to-width-down/60?cb=20211124071311</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Pearl_Cage.png/revision/latest/scale-to-width-down/60?cb=20211124071308</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Deep_Palace%27s_Plume.png/revision/latest/scale-to-width-down/60?cb=20211124071302</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Cowry_of_Parting.png/revision/latest/scale-to-width-down/60?cb=20211124071325</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Deep Palace's Plume</PLUMEOFDEATH>
+        <SANDSOFEON>Cowry of Parting</SANDSOFEON>
+        <SET_NAME>Ocean-Hued Clam</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Healing Bonus +15%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing).
+At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing.
+(This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but it is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses).
+Only one Sea-Dyed Foam can be produced every 3.5 seconds.
+Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing).
+There can be no more than one Sea-Dyed Foam active at any given time.
+This effect can still be triggered even when the character who is using this artifact set is not on the field.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Thundering Poise</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Flowering Life</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Moment of the Pact</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Thundering_Poise.png/revision/latest/scale-to-width-down/60?cb=20220330033151</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Flowering_Life.png/revision/latest/scale-to-width-down/60?cb=20220330033017</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/7/77/Item_Moment_of_the_Pact.png/revision/latest/scale-to-width-down/60?cb=20220330033056</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Feather_of_Nascent_Light.png/revision/latest/scale-to-width-down/60?cb=20220330032944</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Solar_Relic.png/revision/latest/scale-to-width-down/60?cb=20220330033109</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Feather of Nascent Light</PLUMEOFDEATH>
+        <SANDSOFEON>Solar Relic</SANDSOFEON>
+        <SET_NAME>Vermillion Hereafter</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+ATK +18%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+After using an Elemental Burst. this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This increase can occur this way maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Flowing Rings</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Soulscent Bloom</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Chalice of the Font</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Flowing_Rings.png/revision/latest/scale-to-width-down/60?cb=20220330033033</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Soulscent_Bloom.png/revision/latest/scale-to-width-down/60?cb=20220330042626</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/8/89/Item_Chalice_of_the_Font.png/revision/latest/scale-to-width-down/60?cb=20220330033204</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Jade_Leaf.png/revision/latest/scale-to-width-down/60?cb=20220330033045</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/0/03/Item_Symbol_of_Felicitation.png/revision/latest/scale-to-width-down/60?cb=20220330042638</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Jade Leaf</PLUMEOFDEATH>
+        <SANDSOFEON>Symbol of Felicitation</SANDSOFEON>
+        <SET_NAME>Echoes of an Offering</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+ATK +18%.</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK.
+This effect will be dispelled 0.05s after a Normal Attack deals DMG.
+If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%.
+This trigger can occur once every 0.2s.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Laurel Coronet</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Labyrinth Wayfarer</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Lamp of the Lost</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Item_Laurel_Coronet.png/revision/latest/scale-to-width-down/60?cb=20220824130425</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Item_Labyrinth_Wayfarer.png/revision/latest/scale-to-width-down/60?cb=20220826125326</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Lamp_of_the_Lost.png/revision/latest/scale-to-width-down/60?cb=20220824130432</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Scholar_of_Vines.png/revision/latest/scale-to-width-down/60?cb=20220824130412</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_A_Time_of_Insight.png/revision/latest/scale-to-width-down/60?cb=20220824130419</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Scholar of Vines</PLUMEOFDEATH>
+        <SANDSOFEON>A Time of Insight</SANDSOFEON>
+        <SET_NAME>Deepwood Memories</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Dendro DMG Bonus +15%</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.</X4Bonus>
+    </Artifact>
+    <Artifact>
+        <CIRCLETOFLOGOS>Shadow of the Sand King</CIRCLETOFLOGOS>
+        <HEADOFLIFE>Dreaming Steelbloom</HEADOFLIFE>
+        <GOBLETOFEONOTHEM>Honeyed Final Feast</GOBLETOFEONOTHEM>
+        <IMGCIRCLETOFLOGOS>https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Shadow_of_the_Sand_King.png/revision/latest/scale-to-width-down/60?cb=20220826020755</IMGCIRCLETOFLOGOS>
+        <IMGHEADOFLIFE>https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Dreaming_Steelbloom.png/revision/latest/scale-to-width-down/60?cb=20220826125336</IMGHEADOFLIFE>
+        <IMGGOBLETOFEONOTHEM>https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Honeyed_Final_Feast.png/revision/latest/scale-to-width-down/60?cb=20220826020730</IMGGOBLETOFEONOTHEM>
+        <IMGPLUMEOFDEATH>https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Item_Feather_of_Judgment.png/revision/latest/scale-to-width-down/60?cb=20220826020553</IMGPLUMEOFDEATH>
+        <IMGSANDSOFEON>https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_The_Sunken_Years.png/revision/latest/scale-to-width-down/60?cb=20220826020702</IMGSANDSOFEON>
+        <PLUMEOFDEATH>Feather of Judgment</PLUMEOFDEATH>
+        <SANDSOFEON>The Sunken Years</SANDSOFEON>
+        <SET_NAME>Gilded Dreams</SET_NAME>
+        <X2Bonus>2-Piece Bonus
+Elemental Mastery +80</X2Bonus>
+        <X4Bonus>4-Piece Bonus
+Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members, ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.</X4Bonus>
+    </Artifact>
+</Artifacts>
