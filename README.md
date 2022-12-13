@@ -8,7 +8,7 @@
    Luego por los links pillados navegas entre ellos y pillar las infos que queremos pillar.
    Una vez pillado todo lo necesario, envias esos datos al metodo correspondiente para crear fichero CSV y XML.
    
-# Hierramientas
+# Herramientas
 
 >- Selenium
 >- openCSV
