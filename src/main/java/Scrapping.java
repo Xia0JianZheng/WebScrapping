@@ -15,6 +15,9 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * Esta es la clase App, es la clase que se va a ejecutar los metodos.
+ */
 public class Scrapping {
 
     String[] linksCharacters;
@@ -26,6 +29,11 @@ public class Scrapping {
     List<Weapon> weapons = new ArrayList<>();
 
     List<Artifact> artifacts = new ArrayList<>();
+
+    /**
+     * Este metodo ejecuta todo los metodo necessarios para conseguir el scrap
+     * @throws InterruptedException
+     */
 
     public void start() throws InterruptedException {
 
@@ -42,6 +50,10 @@ public class Scrapping {
     }
 
 
+    /**
+     * Entra la pagina que contiene los characters y coge todo los links
+     * @return links de cada character
+     */
     public String[] getLinkCharacters(){
         System.out.println(System.getenv("PATH"));
         System.out.println(System.getenv("HOME"));
@@ -86,6 +98,10 @@ public class Scrapping {
         return linksCharacters;
     }
 
+    /**
+     * Entra la pagina que contiene los armas y coge todo los links
+     * @return links de cada arma
+     */
     public String[] getLinkWeapons(){
         System.out.println(System.getenv("PATH"));
         System.out.println(System.getenv("HOME"));
@@ -127,6 +143,11 @@ public class Scrapping {
         System.out.println("------------------------------");
         return linksWeapons;
     }
+
+    /**
+     * Entra la pagina que contiene los artifactos y coge todo los links
+     * @return links de cada artifacto
+     */
 
     public String[] getLinkArtifact(){
         System.out.println(System.getenv("PATH"));
@@ -171,6 +192,13 @@ public class Scrapping {
 
     }
 
+    /**
+     * Coge los links y los procesa
+     * @param urlsCharacters array que contiene los links de character
+     * @param urlsWeapons array que contiene los links de weapon
+     * @param urlsArtifacts array que contiene los links de artifact
+     */
+
     public void procesarLinks(String[]urlsCharacters, String[]urlsWeapons, String[]urlsArtifacts) {
         //System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver.exe");
         System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver");
@@ -208,6 +236,12 @@ public class Scrapping {
 
     }
 
+    /**
+     * entra a los links de characters y coge los infos que queremos.
+     * @param url links de character
+     * @param driver el driver para seguir navegando
+     * @return retorna info de character
+     */
         public List<Character> getCharacterInfo (String url, WebDriver driver){
             String name, image, element, region, weapon, rarity, description;
             WebDriverWait driverWait = new WebDriverWait(driver, Duration.ofSeconds(10));
@@ -256,6 +290,12 @@ public class Scrapping {
             return characters;
         }
 
+    /**
+     * entra a los links de armas y coge los infos que queremos.
+     * @param url links de armas
+     * @param driver el driver para seguir navegando
+     * @return retorna info de armas
+     */
         public List<Weapon> getWeaponInfo (String url, WebDriver driver){
             String name, type, rarity, description, baseATK;
             String image = "";
@@ -294,6 +334,12 @@ public class Scrapping {
             return weapons;
         }
 
+    /**
+     * entra a los links de artifactos y coge los infos que queremos.
+     * @param url links de artifactos
+     * @param driver el driver para seguir navegando
+     * @return retorna info de artifactos
+     */
         public List<Artifact> getArtifactInfo (String url, WebDriver driver){
             String setName, flowerOfLife, imgFlowerOfLife, plumeOfDeath, imgPlumeOfDeath, sandsOfEon, imgSandsOfEon, gobletOfEonothem, imgGobletOfEonothem, circletOfLogos, imgCircletOfLogos, x2Bonus, x4Bonus;
             WebDriverWait driverWait = new WebDriverWait(driver, Duration.ofSeconds(10));
@@ -386,6 +432,12 @@ public class Scrapping {
             return artifacts;
         }
 
+    /**
+     * Recibe los infos de las listas de objetos y genera los documentos CSV y XML
+     * @param characters lista de datos de characters
+     * @param weapons lista de datos de armas
+     * @param artifacts lista de datos de artifactos
+     */
         public static void generateCSVyXML(List <Character> characters, List <Weapon> weapons, List <Artifact> artifacts){
             CSV csv = new CSV(characters,weapons,artifacts);
             JAXB jaxb = new JAXB(characters,weapons,artifacts);

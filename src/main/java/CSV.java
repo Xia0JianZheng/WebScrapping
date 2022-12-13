@@ -6,14 +6,21 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * Esta clase crea una fichero CSV con los datos que obtenemos de la clase Scrapping
+ */
 public class CSV{
 
     File fileCharacters = new File("src/main/infos/csv/Characters.csv");
     File fileWeapons = new File("src/main/infos/csv/Weapons.csv");
     File fileArtifacts = new File("src/main/infos/csv/Artifacts.csv");
 
-
+    /**
+     * Recibe listas de objectos y genera el fichero CSV.
+     * @param characters recibe una lista de character.
+     * @param weapons recibe una lista de weapons.
+     * @param artifacts recibe una lista de artifacts.
+     */
     public CSV(List<Character>characters,List<Weapon>weapons,List<Artifact> artifacts){
 
             CSVWriter csvWriter;

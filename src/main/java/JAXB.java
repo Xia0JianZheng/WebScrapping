@@ -3,6 +3,9 @@ import jakarta.xml.bind.*;
 import java.io.File;
 import java.util.List;
 
+/**
+ * Esta clase crea un fichero XML con los datos que sacamos de la clase Scrapping
+ */
 public class JAXB {
         File fileCharacters = new File("src/main/infos/xml/characters.xml");
         File fileWeapons = new File("src/main/infos/xml/weapons.xml");
@@ -16,6 +19,12 @@ public class JAXB {
         JAXBContext jaxbContext;
         Marshaller jaxbMarshaller;
 
+    /**
+     * Este metodo recibe listas de objectos y genera un documento XML
+     * @param characters recibe una lista de characters.
+     * @param weapons recibe una lista de weapons
+     * @param artifacts recibe una lista de artifacts
+     */
         JAXB(List<Character>characters,List<Weapon>weapons,List<Artifact>artifacts) {
             try {
                 jaxbContext = JAXBContext.newInstance(Characters.class);
